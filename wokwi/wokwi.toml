@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = '../build/serialbridge.uf2'
+elf = '../serialbridge.elf'
